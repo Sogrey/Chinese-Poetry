@@ -22,6 +22,6 @@ git add -A
 git commit -m '💖 deploy main branch.'
 
 # 如果你想要部署到 https://USERNAME.github.io
-git push -f git@github.com:Sogrey/Springboot-Vue-template.git main
+git push -f git@github.com:Sogrey/Chinese-Poetry.git main
 
 echo -e "\033[32;40m done \033[0m "
